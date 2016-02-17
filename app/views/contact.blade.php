@@ -11,6 +11,10 @@
 							<input type="text" name="name" class="form-control">
 						</div>
 						<div class="form-group">
+							<label class="control-label" for "email">Your Email</label>
+							<input type="text" name="email" class="form-control">
+						</div>
+						<div class="form-group">
 							<label class="control-label" for "subject">Subject</label>
 							<input type="text" name="subject" class="form-control">
 						</div>
@@ -18,6 +22,7 @@
 							<label class="control-label" for "message">Message</label>
 							<textarea class="form-control" name="message"></textarea>
 						</div>
+						<button class="btn btn-primary">Submit</button>
 					</form>
 				</div>
 			</div>

@@ -1,0 +1,66 @@
+body {
+	background-image: url(/img/flag.png);
+	/*background-position: fixed;*/
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	z-index: 0;
+	overflow-x: hidden;
+}
+a:hover {
+	text-decoration: none;
+}
+.title {
+	background-color: white;
+	opacity: 1;
+	text-shadow: 2px 2px 2px black;
+}
+.navbar {
+	background-color: white;
+	opacity: 1;
+}
+.navarea {
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+.navarea:hover {
+	opacity: 1;
+	background-color: #E8E8E8;
+	text-decoration: none;
+}
+.navlink:hover {
+	text-decoration:none;
+}
+.homepagegreeter {
+	margin-top: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	opacity: 1;
+	background-color: white;
+}
+.textsection {
+	position: relative;
+	margin-left: -1.5%;
+	margin-right: -1.5%;
+	z-index: 1;
+	margin-top: 30%;
+	opacity: 1;
+	background-color: white;
+	/*font-size: 20px;*/
+}
+.middletext {
+	font-size: 20px;
+}
+.issuestext {
+	font-size: 20px;
+	margin-top: 5%;
+}
+.issuesheading {
+	margin-top: 5%;
+}
+.caucus {
+	height: 549px;
+	width: 370px;
+}
+.contact {
+	background-color: white;
+}

@@ -9,11 +9,17 @@
 	@yield('top-script')
 <body>
 	<div class="container-fluid">
-		<div class="row text-center title">
-			<a class="navlink" href="{{{action('HomeController@homepage')}}}"><h1>Bo Wilkins for President</h1></a>
-		</div>
-		<div class="row text-center title">
-			<h3>Hungry for Freedom. Petted by the People.</h3>
+		<div class="row title">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+					<a class="navlink" href="{{{action('HomeController@homepage')}}}"><span class="bo1">B</span><span class="bo2">o </span><span class="wilkins">Wilkins</span></a>
+				</div>
+				<div class="mottocontainer col-lg-6 col-lg-offset-2 col-md-6 col-md-offset-2 col-sm-hidden col-xs-hidden">
+					{{-- <span class="motto">Hungry for Freedom. Petted by the People.</span> --}}
+				</div>
+				{{-- </div>
+				<div class="row title"> --}}
+			</div>
 		</div>
 		<div class="navbar row">
 			<div class="col-lg-12 text-center">

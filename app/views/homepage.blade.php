@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('content')
-	<div class="row">
+	<div class="row textsection">
 		<div class="col-lg-12">
 			<div class="homepagegreeter text-center">
 				<h1>Welcome to the official Bo Wilkins for President webpage!</h4>

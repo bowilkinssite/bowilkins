@@ -10,22 +10,56 @@ a:hover {
 	text-decoration: none;
 }
 .title {
-	background-color: white;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(/img/logo.png);
+	background-size: 100% 100%;
 	opacity: 1;
-	text-shadow: 2px 2px 2px black;
+	/*text-shadow: 2px 2px 2px black;*/
+	/*margin-top: -4%;*/
+	margin-bottom: -4%;
+}
+
+.bo1 {
+	font-size: 150px;
+	margin-left: -100px;
+	color: #009cde;
+}
+.bo2 {
+	font-size: 110px;
+	color: #009cde;
+	display: none;
+}
+.mottocontainer {
+	margin-top: 10%;
+}
+.motto {
+	font-size: 30px;
+	background: -webkit-linear-gradient(red, white, blue);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.wilkins {
+	font-size: 40px;
+	color: #009cde;
+	display: none;
 }
 .navbar {
 	background-color: white;
 	opacity: 1;
 }
-.navarea {
+/*.navarea {
 	padding-bottom: 1%;
 	padding-top: 1%;
-}
+}*/
 .navarea:hover {
 	opacity: 1;
 	background-color: #E8E8E8;
 	text-decoration: none;
+}
+.navlink {
+
 }
 .navlink:hover {
 	text-decoration:none;

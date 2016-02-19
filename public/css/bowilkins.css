@@ -44,8 +44,8 @@ a:hover {
 	background-image: url(/img/bo1.png);
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 100%;
-	width: 130%;
+	height: 590px;
+	width: 1510px;
 	margin-left: -10%;
 	/*margin-right: -30%;*/
 }
@@ -75,7 +75,7 @@ a:hover {
 	position: relative;
 	display: inline-block;
 	opacity: .6;
-	height: 580px;
+	height: 585px;
 	width: 100%;
 }
 .bo1 {

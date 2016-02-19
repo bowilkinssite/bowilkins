@@ -18,10 +18,10 @@
 	</div>
 	<div class="row landing2 text-center">
 		<div class="col-lg-12">
-			<div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 				Contact Bo
 			</div>
-			<div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">Continue to Site</div>
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">Continue to Site</div>
 		</div>
 	</div>
 </div>

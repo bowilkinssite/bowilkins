@@ -25,11 +25,15 @@
 		</div>
 	</div>
 </div>
+<script src="/js/jquery.js"></script>
 <script type="text/javascript">
 var height = window.screen.height;
 var width = window.screen.width;
 console.log("Height: " + height);
 console.log("Width: " + width);
+if(height == 1080 && width == 1920) {
+	console.log("This is a big screen");
+}
 </script>
 </body>
 </html>

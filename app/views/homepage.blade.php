@@ -9,9 +9,9 @@
 <div class="container-fluid">
 	<div class="row landing1">
 		<div class="col-lg-12">
-					<span class="col-lg-6 col-lg-offset-2 col-md-6 col-md-offset-2 col-sm-6 col-sm-offset-2 col-xs-6 col-xs-offset-2 landingquote"><img class="smallmotto" src="/img/smallmotto.png"></span>
-			<div class="landingback">
-			</div>
+					<span class="col-lg-6 col-md-6 col-sm-6 col-xs-6 landingquote"></span>
+			{{-- <div class="landingback">
+			</div> --}}
 			{{-- <div class="divider1"></div>
 			<div class="divider2"></div> --}}
 		</div>

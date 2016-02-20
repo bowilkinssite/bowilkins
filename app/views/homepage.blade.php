@@ -25,5 +25,11 @@
 		</div>
 	</div>
 </div>
+<script type="text/javascript">
+var height = window.screen.height;
+var width = window.screen.width;
+console.log("Height: " + height);
+console.log("Width: " + width);
+</script>
 </body>
 </html>

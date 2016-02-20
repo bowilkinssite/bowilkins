@@ -9,7 +9,7 @@
 <div class="container-fluid">
 	<div class="row landing1">
 		<div class="col-lg-12">
-					<span class="col-lg-6 col-md-6 col-sm-6 col-xs-6 landingquote"></span>
+					<span id="thebanner" class="landingquote"></span>
 			{{-- <div class="landingback">
 			</div> --}}
 			{{-- <div class="divider1"></div>
@@ -31,8 +31,8 @@ var height = window.screen.height;
 var width = window.screen.width;
 console.log("Height: " + height);
 console.log("Width: " + width);
-if(height == 1080 && width == 1920) {
-	console.log("This is a big screen");
+if(height > 800 && width > 1280) {
+	$("#thebanner").attr('class', 'biglandingquote');
 }
 </script>
 </body>

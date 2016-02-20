@@ -16,7 +16,7 @@
 			<div class="divider2"></div> --}}
 		</div>
 	</div>
-	<div class="row landing2 text-center">
+	<div id="thefooter" class="row landing2 text-center">
 		<div class="col-lg-12">
 			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 				Contact Bo
@@ -33,6 +33,7 @@ console.log("Height: " + height);
 console.log("Width: " + width);
 if(height > 800 && width > 1280) {
 	$("#thebanner").attr('class', 'biglandingquote');
+	$("#thefooter").attr('class', 'row biglanding2 text-center');
 }
 </script>
 </body>

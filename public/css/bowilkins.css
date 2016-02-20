@@ -64,6 +64,15 @@ a:hover {
 	margin-top: -1%;
 	margin-bottom: -3%;
 }
+.smalllanding2 {
+	display: inline-block;
+	background-color: white;
+	width: 200%;
+	height: 200px;
+	padding-top: 2.8%;
+	margin-top: -1%;
+	margin-bottom: -3%;
+}
 .landingquote {
 	display: inline-block;
 	background-image: url(/img/bigmotto.png);
@@ -79,6 +88,15 @@ a:hover {
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 900px;
+	width: 2000px;
+	margin-left: -5%;
+}
+.smalllandingquote {
+	display: inline-block;
+	background-image: url(/img/bigmotto.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 1000px;
 	width: 2000px;
 	margin-left: -5%;
 }

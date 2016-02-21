@@ -13,8 +13,9 @@ a:hover {
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-image: url(/img/logo.png);
+	background-image: url(/img/bigmotto.png);
 	background-size: 100% 100%;
+	height: 200px;
 	opacity: 1;
 	/*text-shadow: 2px 2px 2px black;*/
 	/*margin-top: -4%;*/
@@ -139,17 +140,17 @@ a:hover {
 	background-color: white;
 	opacity: 1;
 }
-/*.navarea {
+.navarea {
 	padding-bottom: 1%;
 	padding-top: 1%;
-}*/
+}
 .navarea:hover {
 	opacity: 1;
 	background-color: #E8E8E8;
 	text-decoration: none;
 }
 .navlink {
-
+	font-size: 20px;
 }
 .navlink:hover {
 	text-decoration:none;
@@ -177,6 +178,8 @@ a:hover {
 .issuestext {
 	font-size: 20px;
 	margin-top: 5%;
+	padding-left: 3%;
+	padding-right: 5%;
 }
 .issuesheading {
 	margin-top: 5%;

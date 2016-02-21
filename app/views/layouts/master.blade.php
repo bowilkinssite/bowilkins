@@ -12,7 +12,7 @@
 		<div class="row title">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<a class="navlink" href="{{{action('HomeController@homepage')}}}"><span class="bo1">B</span><span class="bo2">o </span><span class="wilkins">Wilkins</span></a>
+					{{-- <a class="navlink" href="{{{action('HomeController@homepage')}}}"><span class="bo1">B</span><span class="bo2">o </span><span class="wilkins">Wilkins</span></a> --}}
 				</div>
 				<div class="mottocontainer col-lg-6 col-lg-offset-2 col-md-6 col-md-offset-2 col-sm-hidden col-xs-hidden">
 					{{-- <span class="motto">Hungry for Freedom. Petted by the People.</span> --}}

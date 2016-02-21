@@ -19,10 +19,10 @@
 	</div>
 	<div id="thefooter" class="row landing2 text-center">
 		<div class="col-lg-12">
-			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="{{{action('HomeController@contact')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 				Contact Bo
-			</div>
-			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">Continue to Site</div>
+			</div></a>
+			<a href="{{{action('HomeController@aboutme')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">Continue to Site</div></a>
 		</div>
 	</div>
 </div>

@@ -18,6 +18,9 @@
 			{{-- <div class="divider1"></div>
 			<div class="divider2"></div> --}}
 		</div>
+		<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
+			<span class="smalllandingquote"></span>
+		</div>
 	</div>
 	<div id="thefooter" class="row landing2 text-center">
 		<div class="col-lg-12">

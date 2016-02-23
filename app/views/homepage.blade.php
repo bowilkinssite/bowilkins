@@ -31,7 +31,7 @@
 		</div>
 	</div>
 	<div id="thefooter" class="row hidden-lg hidden-md smalllanding2 text-center">
-		<div class="col-sm-12 col-xs-12">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			<a href="{{{action('HomeController@contact')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 				Contact Bo
 			</div></a>

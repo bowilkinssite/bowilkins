@@ -36,7 +36,7 @@ if(height > 800 && width > 1280) {
 	$("#thebanner").attr('class', 'biglandingquote');
 	$("#thefooter").attr('class', 'row biglanding2 text-center');
 }
-if( height <= 320) {
+if( height <= 600) {
 	$("#thebanner").attr('class', 'smalllandingquote');
 	$("#thefooter").attr('class', 'row smalllanding2 text-center');
 }

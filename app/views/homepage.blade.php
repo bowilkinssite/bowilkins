@@ -22,7 +22,7 @@
 			<span class="smalllandingquote"></span>
 		</div>
 	</div>
-	<div id="thefooter" class="row landing2 text-center">
+	<div id="thefooter" class="row hidden-sm hidden-xs landing2 text-center">
 		<div class="col-lg-12">
 			<a href="{{{action('HomeController@contact')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 				Contact Bo

@@ -32,10 +32,10 @@
 	</div>
 	<div class="row hidden-lg hidden-md smalllanding2 text-center">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-			<a href="{{{action('HomeController@contact')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+			<a href="{{{action('HomeController@contact')}}}"><div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
 				Contact Bo
 			</div></a>
-			<a href="{{{action('HomeController@aboutme')}}}"><div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">Continue to Site</div></a>
+			<a href="{{{action('HomeController@aboutme')}}}"><div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">Continue to Site</div></a>
 		</div>
 	</div>
 </div>

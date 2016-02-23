@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="img/png" href="/img/icon.png">
 	<title>Bo Wilkins for President</title>
 	<link rel="stylesheet" type="text/css" href="/css/bowilkins.css">

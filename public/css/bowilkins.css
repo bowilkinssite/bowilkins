@@ -63,15 +63,15 @@ a:hover {
 	height: 100px;
 	padding-top: 2.8%;
 	margin-top: -1%;
-	margin-bottom: -5%;
+	margin-bottom: -3%;
 }
 .smalllanding2 {
 	background-color: white;
 	width: 110%;
 	height: 100px;
 	padding-top: 2.8%;
-	margin-top: -1.5%;
-	margin-bottom: -3%;
+	margin-top: -1%;
+	margin-bottom: -5%;
 }
 .landingquote {
 	display: inline-block;
@@ -98,7 +98,7 @@ a:hover {
 	background-position: center;
 	background-size: 100% 100%;
 	height: 500px;
-	width: 110%;
+	width: 111%;
 	margin-left: -5%;
 }
 .landingback {
